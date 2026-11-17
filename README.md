@@ -1,2 +1,2 @@
-# Aula-GIt
+# Aula-Git
 Repositório para aula
